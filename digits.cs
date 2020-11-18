@@ -1,3 +1,7 @@
+/* María Blasco López CORRECTIONS
+Calculates how many numbers of 1, 2, 3 or more digits are
+entered by the user until he/she types “end” */
+
 using System;
 
     class digits
@@ -38,4 +42,4 @@ using System;
 			oneNumber, twoNumbers, threeNumbers, moreThanThreeNumbers); 
 		}	
     }
-
+	
